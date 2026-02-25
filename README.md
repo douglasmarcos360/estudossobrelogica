@@ -1,4 +1,8 @@
-# estudossobrelogica
+## estudos sobre logica parte 2
+## link do site onde estou estudando logica de programação
+
+ <a href="https://portugol.dev/">
+    <img src=https://img.icons8.com/?size=100&id=RDc7pEfAnuzX&format=png&color=000000 />
 programa {
   funcao correr() {
     inteiro contador = 1
