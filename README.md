@@ -3,7 +3,12 @@
 
  <a href="https://portugol.dev/">
     <img src=https://img.icons8.com/?size=100&id=RDc7pEfAnuzX&format=png&color=000000 />
-programa {
+
+  
+  
+  
+  
+ programa {
   funcao correr() {
     inteiro contador = 1
    enquanto(contador <= 20) {
